@@ -1,0 +1,16 @@
+{
+    "name": "nginx_master",
+    "version": "0.0.1",
+    "description": "Serveur hote",
+    "productName": "Devreos",
+    "author": "leblondx <leblondx@gmail.com>",
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "setupserverdebug": "sudo bash -x ./Init_Server.sh",
+        "setupserver": "sudo ./Init_Server.sh",
+        "build": "docker-compose --env-file ./Server.env build",
+        "serverup": "docker-compose --env-file ./Server.env up",
+        "serverdown": "docker-compose --env-file ./Server.env down"
+    }
+}

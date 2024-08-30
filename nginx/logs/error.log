@@ -1,0 +1,20 @@
+2024/08/28 13:28:15 [crit] 1#1: pread() "/etc/nginx/sites-enabled/errors" failed (21: Is a directory)
+2024/08/28 13:29:16 [crit] 1#1: pread() "/etc/nginx/sites-enabled/errors" failed (21: Is a directory)
+2024/08/28 13:30:16 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/mentheentretien_dev.conf:31
+2024/08/28 13:31:17 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/mentheentretien_dev.conf:31
+2024/08/28 13:32:18 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/mentheentretien_dev.conf:31
+2024/08/28 13:33:18 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/mentheentretien_dev.conf:31
+2024/08/28 13:34:19 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/mentheentretien_dev.conf:31
+2024/08/28 13:35:20 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/mentheentretien_dev.conf:31
+2024/08/28 13:54:26 [notice] 93#93: signal process started
+2024/08/28 14:48:48 [notice] 114#114: signal process started
+2024/08/28 14:58:13 [notice] 134#134: signal process started
+2024/08/28 15:03:06 [notice] 154#154: signal process started
+2024/08/28 15:03:48 [notice] 174#174: signal process started
+2024/08/28 19:36:20 [notice] 189#189: signal process started
+2024/08/29 01:36:20 [notice] 199#199: signal process started
+2024/08/29 07:36:20 [notice] 209#209: signal process started
+2024/08/29 13:36:20 [notice] 219#219: signal process started
+2024/08/29 19:36:21 [notice] 229#229: signal process started
+2024/08/30 01:36:21 [notice] 239#239: signal process started
+2024/08/30 07:36:21 [notice] 249#249: signal process started
